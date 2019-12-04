@@ -1,0 +1,8 @@
+{
+	"home_page_title": "Home - Portfolio Demo",
+	"blog_page_title": "Blog - Portfolio Demo",
+	"content_plugins": {
+		"be-grid": "BE Grid",
+		"tatsu": "Tatsu"
+	}
+}

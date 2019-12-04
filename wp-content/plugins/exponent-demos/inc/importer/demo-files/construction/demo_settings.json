@@ -1,0 +1,12 @@
+{
+	"home_page_title": "Home with slider - Construction",
+	"blog_page_title": "Blog - Construction",
+	"sliders": {
+		"revslider": "exponent-construction.zip"
+	},
+	"content_plugins": {
+		"be-grid": "BE Grid",
+		"tatsu": "Tatsu",
+		"revslider": "Slider Revolution"
+	}
+}

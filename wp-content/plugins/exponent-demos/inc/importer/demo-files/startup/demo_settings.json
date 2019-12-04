@@ -1,0 +1,12 @@
+{
+	"home_page_title": "Home with Slider - Startup",
+	"blog_page_title": "Blog - Startup",
+	"sliders": {
+		"revslider": "home-startup.zip"
+	},
+	"content_plugins": {
+		"be-grid": "BE Grid",
+		"tatsu":"Tatsu",
+		"revslider": "Slider Revolution"
+	}
+}

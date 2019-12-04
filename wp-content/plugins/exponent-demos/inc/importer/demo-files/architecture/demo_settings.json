@@ -1,0 +1,12 @@
+{
+	"home_page_title": "Home with Slider - Architecture",
+	"blog_page_title": "News - Architecture",
+	"sliders": {
+		"revslider": "architecture-home.zip"
+	},
+	"content_plugins": {
+		"be-grid": "BE Grid",
+		"tatsu" : "Tatsu",
+		"revslider": "Slider Revolution"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"home_page_title": "Lawyer - Lawfirm",
+	"blog_page_title": "Blog - Lawfirm",
+	"content_plugins": {
+		"be-grid": "BE Grid",
+		"tatsu" : "Tatsu"
+	}
+}

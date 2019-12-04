@@ -1,0 +1,8 @@
+{
+	"home_page_title": "Home - Shop Demo",
+	"blog_page_title": "Blog - Shop Demo",
+	"content_plugins": {
+		"woocommerce":"Woo Commerce",
+		"tatsu": "Tatsu"
+	}
+}

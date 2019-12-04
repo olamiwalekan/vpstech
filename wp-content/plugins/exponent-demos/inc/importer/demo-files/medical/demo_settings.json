@@ -1,0 +1,8 @@
+{
+	"home_page_title": "Home - Medical",
+	"blog_page_title": "Blog - Medical",
+	"content_plugins": {
+		"be-grid": "BE Grid",
+		"tatsu" : "Tatsu"
+	}
+}

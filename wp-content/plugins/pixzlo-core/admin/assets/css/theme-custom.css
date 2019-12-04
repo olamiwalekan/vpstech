@@ -1,0 +1,145 @@
+/*Custom Fonts Style*/
+
+.fonts-page-title{
+
+	margin-top:50px;
+
+}
+
+form#fonts_upload {
+
+    padding: 20px 0;
+
+}
+
+form#fonts_upload #submit_font_upload, form#fonts_upload  #pixzlo_font_upload {
+
+    background-color: #337ab7;
+
+    border: 1px solid transparent;
+
+    border-radius: 4px;
+
+    color: #fff;
+
+    display: inline-block;
+
+    line-height: 20px;
+
+    margin-bottom: 0;
+
+    padding: 6px 12px;
+
+    vertical-align: middle;
+
+	cursor: pointer;
+
+}
+
+.pixzlo-cus-font-del i {
+
+    font-size: 18px;
+
+    padding: 5px;
+
+}
+
+.custom-fonts-table tr th {
+
+    font-size: 15px;
+
+    font-weight: 600;
+
+}
+
+.custom-fonts-table tr:first-child{
+
+	border-bottom:2px solid #f1f1f1;
+
+}
+
+
+
+/* Star Rating Styles */
+
+ul.star-rating > li {
+
+	font-size: 18px;
+
+    display: inline-block;
+
+}
+
+ul.star-rating > li span.fa-star {
+
+	color: #e6ab51;
+
+}
+
+
+
+/*Admin Meta Drag and Drop Field CSS*/
+
+.meta-items {
+
+    background-color: #eee;
+
+    padding: 30px 15px;
+
+}
+
+.meta-items.meta-items-enabled {
+
+    background: #32373c none repeat scroll 0 0;
+
+}
+
+.meta-items li {
+
+   background-color: #0073aa;
+
+    color: #fff;
+
+    cursor: all-scroll;
+
+    display: inline-block;
+
+    margin-left: 5px;
+
+    padding: 8px 15px;
+
+}
+
+.meta-field-table tbody tr td:first-child{
+
+	width:25%;
+
+}
+
+.meta-items, .meta-items li{
+
+	-webkit-border-radius: 5px;
+
+	-moz-border-radius: 5px;
+
+	border-radius: 5px;
+
+}
+
+.droppable-active,.meta-items.meta-items-enabled.droppable-active {
+
+	border:dashed 2px #0073AA;
+
+	background-color:#00aef0;
+
+}
+
+.droppable-active li{
+
+	background-color:#0b9bd2;
+
+	border:solid #48b3db 1px;
+
+	color:#fff;
+
+}

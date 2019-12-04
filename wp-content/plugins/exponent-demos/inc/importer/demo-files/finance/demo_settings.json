@@ -1,0 +1,12 @@
+{
+	"home_page_title": "Home with Slider - Finance",
+	"blog_page_title": "Blog - Finance",
+	"sliders": {
+		"revslider": "finance-home.zip"
+	},
+	"content_plugins": {
+		"be-grid": "BE Grid",
+		"tatsu": "Tatsu",
+		"revslider": "Slider Revolution"
+	}
+}

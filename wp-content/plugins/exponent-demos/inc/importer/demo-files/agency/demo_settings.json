@@ -1,0 +1,8 @@
+{
+	"home_page_title": "Home - Agency",
+	"blog_page_title": "Blog - Agency",
+	"content_plugins": {
+		"be-grid": "BE Grid",
+		"tatsu" : "Tatsu"
+	}
+}

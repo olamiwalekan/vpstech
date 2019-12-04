@@ -1,0 +1,8 @@
+{
+	"home_page_title": "Home - Education",
+	"blog_page_title": "Blog - Education",
+	"content_plugins": {
+		"be-grid": "BE Grid",
+		"tatsu": "Tatsu"
+	}
+}
